@@ -7,7 +7,7 @@ Projet d'apprentissage automatique visant à **prédire si un séisme a déclenc
 ```
 .
 ├── earthquake_data_tsunami.csv      # Données (782 lignes, 13 colonnes)
-├── Serie_2_tsunami.ipynb            # Analyse complète : exploration, entraînement, comparaison
+├── Prédiction_tsunami.ipynb            # Analyse complète : exploration, entraînement, comparaison
 ├── modele_final_tsunami.joblib      # Modèle sauvegardé (généré à l'exécution du notebook)
 └── README.md
 ```
